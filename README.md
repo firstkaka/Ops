@@ -1,3 +1,7 @@
+python无法安装ansible:
+https://blog.csdn.net/wc1695040842/article/details/87273209
+https://blog.csdn.net/weixin_42356309/article/details/83411437
+
 # ops
 基于centos6+python3.6+django2+ansible2.4+celery4.2  运维管理系统-开发中，目前实现功能：用户和用户组管理、日程管理、资产管理、集成ansible、简易堡垒机(主机分配（支持Linux和Windows）、用户分配、文件上传下载、配置禁用命令清单、操作录像回放功能)、数据库管理（一部分）、CI/CD（支持git仓库和svn仓库）、celery任务编排、基于markdown编辑器的知识库支持实时预览和全局搜索结果高亮和文件共享中心
 
